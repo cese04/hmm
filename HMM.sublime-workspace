@@ -1,0 +1,672 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"second_word"
+			],
+			[
+				"ini",
+				"initial_total"
+			],
+			[
+				"t_",
+				"t_2"
+			],
+			[
+				"t",
+				"t_1"
+			],
+			[
+				"trn",
+				"transitions"
+			],
+			[
+				"rn",
+				"random_colors"
+			],
+			[
+				"ma",
+				"max_iter"
+			],
+			[
+				"actually_",
+				"actually_hillary"
+			],
+			[
+				"hill",
+				"hilary_cluster_size"
+			],
+			[
+				"cluste",
+				"cluster_assignments"
+			],
+			[
+				"p",
+				"pTrump"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"dis",
+				"dist_array"
+			],
+			[
+				"dist",
+				"dist_matrix"
+			],
+			[
+				"num",
+				"num_offspring"
+			],
+			[
+				"show",
+				"show_plots"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"User",
+				"userStored"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"user_routes"
+			],
+			[
+				"ALbum",
+				"AlbumSchema"
+			],
+			[
+				"stri",
+				"String"
+			],
+			[
+				"s",
+				"Schema"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bounce.py",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import numpy as np"
+			}
+		},
+		{
+			"file": "frost.py",
+			"settings":
+			{
+				"buffer_size": 1960,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import numpy as np"
+			}
+		},
+		{
+			"file": "/H/Bases de Datos/fica2.py",
+			"settings":
+			{
+				"buffer_size": 1970,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/Bases de Datos/vent2.py",
+			"settings":
+			{
+				"buffer_size": 2709,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/CarlosEmiliano/Documents/machine_learning_examples/hmm_class/frost.py",
+			"settings":
+			{
+				"buffer_size": 3153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 642.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/CarlosEmiliano/Documents/Hidden_Markov"
+	],
+	"file_history":
+	[
+		"/C/Users/CarlosEmiliano/Documents/PaperEEG/CCE/IEEEexample.bib",
+		"/C/Users/CarlosEmiliano/Documents/TT2/bibliography/bibliography.bib",
+		"/H/EEG/ExtCar.py",
+		"/H/Bases de Datos/ica1.py",
+		"/H/Bases de Datos/fica2.py",
+		"/H/EEG/parciales3.py",
+		"/H/Bases de Datos/graf_frec.py",
+		"/H/Bases de Datos/st2.py",
+		"/H/EEG/ej_filtro.py",
+		"/C/Users/CarlosEmiliano/Documents/large_files/test.csv",
+		"/C/Users/CarlosEmiliano/Documents/PaperEEG/CCE/IEEEfull.bib",
+		"/C/Users/CarlosEmiliano/Documents/Java/FollowBot/src/com/example/camera_activity/camera_activity.java",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/app.js",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/softkmeans.py",
+		"/C/Users/CarlosEmiliano/Documents/machine_learning_examples/unsupervised_class/gmm.py",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/gmm1.py",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/trump_hillary.py",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/mnist2.py",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/kmeans_mnist.py",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/evolution.py",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/hier.py",
+		"/C/Users/CarlosEmiliano/Documents/machine_learning_examples/unsupervised_class/books.py",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/choose_k.py",
+		"/C/Python36/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+		"/C/Users/CarlosEmiliano/Documents/Clustering/nogha.py",
+		"/C/Users/CarlosEmiliano/Documents/zero_to_deep_learning_udemy/environment.yml",
+		"/C/Users/CarlosEmiliano/Documents/zero_to_deep_learning_udemy/environment-gpu.yml",
+		"/C/Users/CarlosEmiliano/Documents/machine_learning_examples/unsupervised_class/gmm_mnist.py",
+		"/C/Users/CarlosEmiliano/Documents/machine_learning_examples/unsupervised_class/kmeans.py",
+		"/C/Users/CarlosEmiliano/Documents/machine_learning_examples/hmm_class/frost.py",
+		"/C/Users/CarlosEmiliano/Documents/BayesianML/bayesian_bandit.py",
+		"/C/Users/CarlosEmiliano/Documents/Python Scripts/Index.py",
+		"/C/Users/CarlosEmiliano/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/C/Users/CarlosEmiliano/Documents/Python Scripts/dashex3.py",
+		"/C/Users/CarlosEmiliano/Documents/Python Scripts/dashex5.py",
+		"/C/Users/CarlosEmiliano/Documents/Python Scripts/dashex4.py",
+		"/C/Users/CarlosEmiliano/Documents/Python Scripts/dashex2.py",
+		"/C/Users/CarlosEmiliano/Documents/Python Scripts/dashex1.py",
+		"/C/Users/CarlosEmiliano/Documents/Python Scripts/ej1.py",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/models/album.js",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/models/song.js",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/models/artist.js",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/routes/user.js",
+		"/C/Users/CarlosEmiliano/Documents/Curso HTML/js_4.html",
+		"/C/Users/CarlosEmiliano/Documents/Biomecanica/mu2.m",
+		"/C/Users/CarlosEmiliano/Documents/Curso HTML/evaluarAnemia.js",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/controllers/user.js",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/models/user.js",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/index.js",
+		"/C/Users/CarlosEmiliano/Documents/curso-mean/package.json",
+		"/C/Users/CarlosEmiliano/Documents/Curso HTML/eje5.html",
+		"/C/Users/CarlosEmiliano/Documents/Curso HTML/js_4",
+		"/C/xampp/htdocs/web/correos.html",
+		"/C/xampp/htdocs/web/ej2.html",
+		"/C/xampp/htdocs/web/suma.html",
+		"/C/xampp/htdocs/web/eje5.html",
+		"/C/Users/CarlosEmiliano/Documents/Curso HTML/bootstrap_end/boot_final.html",
+		"/C/cygwin64/home/CarlosEmiliano/.bash_profile",
+		"/C/Users/CarlosEmiliano/Documents/Nogha/svm_ejemplo.py",
+		"/C/Users/CarlosEmiliano/Documents/BayesianML/ggplot_ex1.py",
+		"/C/Users/CarlosEmiliano/Documents/EEG1/graficas.py",
+		"/C/Users/CarlosEmiliano/Documents/web-api-auth-examples-master/authorization_code/app.js",
+		"/C/Users/CarlosEmiliano/Documents/Paper/fuz_r.py",
+		"/C/Users/CarlosEmiliano/Documents/Paper/fcm_tri_im.py",
+		"/C/Users/CarlosEmiliano/Documents/Paper/fcm_contrast2.py",
+		"/C/Users/CarlosEmiliano/Documents/Paper/fcm_def.py",
+		"/C/Anaconda2/Lib/site-packages/ggplot/geoms/geom_density.py",
+		"/C/Users/CarlosEmiliano/Documents/EEG1/gr.py",
+		"/C/Users/CarlosEmiliano/Documents/EEG1/graficas3.py",
+		"/C/Users/CarlosEmiliano/Documents/EEG1/graficas2.py",
+		"/C/Anaconda2/Lib/site-packages/ggplot/ggplot.py",
+		"/C/Anaconda2/pkgs/matplotlib-2.0.2-np113py27_intel_1/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+		"/H/Bases de Datos/vent.py",
+		"/H/Bases de Datos/tst.py"
+	],
+	"find":
+	{
+		"height": 45.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"predic",
+			"surve",
+			"devi",
+			"epileps",
+			"backend",
+			"fill",
+			"sort",
+			"backend"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bounce.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.26.region_keys":
+							[
+								"SL.pycodestyle.Highlights.|cc9897d30a858b4a852330161aa7b622fef9fb9b5871f8945d107c16ddefec40|region.yellowish markup.warning.sublime_linter|32",
+								"SL.pycodestyle.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"auto_name": "import numpy as np",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frost.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_name": "import numpy as np",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1289.33333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/H/Bases de Datos/fica2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1176,
+								1176
+							]
+						],
+						"settings":
+						{
+							"SL.30.region_keys":
+							[
+								"SL.pycodestyle.Highlights.|ba843814454593d94faebe1035f1a5b68756a57c6d9a0131129df75987a4111a|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|483de973f568b01331946fc2b084da8e5cf677269f11ec8f338f71daa875ab54|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|e43b9d5cd9bc5797139caeb3ca4ea26cdf0433d1172c86ce3c95c6914be5e257|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.pycodestyle.Highlights.|dd6ea0ebbc9f8722cbd62048cf2ece79bb65525df924472d1fd1fc32a2e1fb5d|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.pycodestyle.Highlights.|1556c4f520022a6e638fe3824c8fff318a97e80f0ca5796aa93c7c612f424f43|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/H/Bases de Datos/vent2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"SL.32.region_keys":
+							[
+								"SL.pycodestyle.Highlights.|9d8b185f0a6438e48d4c5ab52c254baa1be89096b31d41e24b5edb6b5cfa6e8b|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|a3cda3d27e20474f432b34cf308a950f9406056292869594d6377998fea57550|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|5437e97330ee72f373875bf443e012bb43c40c9110deebf453f10c7e9528c780|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.pycodestyle.Highlights.|1886bb680ae14e9558762c1aec7172f6a1fa86cd594255d461b411ee5730f0f1|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|5645d7447cf98a060a31851b1790236717aa67d1f7579fa3a0e84ef8556c297e|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|3715ef6229c30dfee64ee91935ee97f623ed7a89a21539b7afb5d1954eef101d|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|4cab55fabb0ecae833d4f7f394d5f8888ca4f036510797459f27b3450ed1d66b|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|f8e03b64aafed08c93b707e20350dd2343354cbb0d8fbfd337f903e4e0089e1c|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|2f52bbc177a9b25007c4cb2f3eea18a69d77d69ba767b89b1bf16a51e5e54588|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|b0c508687c565705072082cbe4d53583bb6a9ebaa243cc096449d425b5c096f8|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|7c0832937d6bc6946f2079b2dd0e2fccfb039ecd2ba8193cc2f82c414f9fcf77|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|746df3dc1457bcdc965fe425d15bd90b3dc6d5d99f1d0155a27dd5809bb870ca|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|d54e3baac2855bcdcd5d6ec89e31f66c7ef024acf3d832420f62e147605918cd|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|829a2b45077858533c98ea8c02b56d85f0371e73ce670223bc2d9e53b2c83dbd|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.pycodestyle.Highlights.|6b1fe41a6ee5e01a028c0665b4a982b24c4083cf64351d2abe49e5a8ca4bf7fd|region.redish markup.error.sublime_linter|32",
+								"SL.pycodestyle.Highlights.|22b717529bc345fb3c9d11e7bca743e344fa42125a70a4abea30e17b4b144a58|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/CarlosEmiliano/Documents/machine_learning_examples/hmm_class/frost.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1872,
+								1871
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+							],
+							"SL.29.region_keys":
+							[
+								"SL.pycodestyle.Highlights.|6297406e49764a06cfc2e1841d0c57830428fbda2f5d9014a0e28781f35470a6|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.pycodestyle.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 349.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 156.0
+	},
+	"output.exec":
+	{
+		"height": 439.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "HMM.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
