@@ -20,16 +20,17 @@ outputs, updates = theano.scan(
     fn=recurrence,
     sequences=sequence,
     n_steps=sequence.shape[0],
-    outputs_info=[np.float64(0)],
+    outputs_info=np.array([0], np.float64),
     non_sequences=[decay],
 )
 
 lpf = theano.function(
     inputs=[sequence, decay],
     outputs=outputs,
+    allow_input_downcast=True
 )
 
-Y = lpf(X, 0.99)
+Y = lpf(np.float64(X), np.float64(0.99))
 plt.plot(Y)
 plt.title('filtered')
 plt.show()
