@@ -1,5 +1,5 @@
 import numpy as np
-from future.utils import iteritems
+#from future.utils import iteritems
 import string
 
 initial = {}
@@ -17,7 +17,7 @@ def add2dict(d, k, v):
     d[k].append(v)
 
 
-for line in open('benedetti.txt'):
+for line in open('amlo.txt'):
 
     tokens = remove_punctuation(line.rstrip().lower()).split()
 
@@ -39,7 +39,7 @@ for line in open('benedetti.txt'):
 # Normalize the distributions
 initial_total = sum(initial.values())
 
-for t, c in iteritems(initial):
+for t, c in iter(initial.items()):
     initial[t] = c / initial_total
 
 
@@ -49,16 +49,16 @@ def list2pdict(ts):
     n = len(ts)
     for t in ts:
         d[t] = d.get(t, 0) + 1
-    for t, c in iteritems(d):
+    for t, c in iter(d.items()):
         d[t] = c / n
     return d
 
 
-for t_1, ts in iteritems(second_word):
+for t_1, ts in iter(second_word.items()):
     # replace list with dictionary of probabilities
     second_word[t_1] = list2pdict(ts)
 
-for k, ts in iteritems(transitions):
+for k, ts in iter(transitions.items()):
     transitions[k] = list2pdict(ts)
 
 
@@ -73,7 +73,7 @@ def sample_word(d):
 
 
 def generate():
-    for i in range(4):
+    for i in range(10):
         sentence = []
 
         w0 = sample_word(initial)
@@ -90,7 +90,7 @@ def generate():
             sentence.append(w2)
             w0 = w1
             w1 = w2
-        print(' '.join(sentence))
+        print(' '.join(sentence) + '\n')
 
 
 generate()
